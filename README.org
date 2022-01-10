@@ -1,6 +1,9 @@
 * Min zsh
-A minimal theme for zsh. *depends on git_prompt_info()* [[Image][see image]]
+A minimal theme for zsh. *depends on git_prompt_info()* [[id:image][see image]]
 ** Image
+:PROPERTIES:
+:ID: image
+:END:
 [[./res/image.png]]
 ** Download
 *** zplug
