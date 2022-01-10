@@ -1,3 +1,5 @@
+setopt promptsubst;
+
 LCHAR_WIDTH=%1G
 LCHAR='$'
 
