@@ -1,5 +1,5 @@
 * Min zsh
-A minimal theme for zsh.
+A minimal theme for zsh. *depends on git_prompt_info()* [[Image][see image]]
 ** Image
 [[./res/image.png]]
 ** Download
