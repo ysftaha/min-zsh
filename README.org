@@ -1,0 +1,21 @@
+* Min zsh
+A minimal theme for zsh.
+** Image
+[[./res/image.png]]
+** Download
+*** zplug
+#+BEGIN_SRC sh
+zplug "ysftaha/min-zsh", as:theme
+#+end_SRC
+
+*** oh-my-zsh
+#+BEGIN_SRC sh
+git clone --depth=1 https://github.com/ysftaha/min-zsh.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/min-zsh
+#+end_SRC
+
+*** Prezto
+#+BEGIN_SRC sh
+Add zstyle :prezto:module:prompt theme powerlevel10k to ~/.zpreztorc.
+#+end_SRC
+** Misc
+legal stuff in license, image in res folder.
